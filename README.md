@@ -1,1 +1,1 @@
-# Goomba---Voron-2.4
+# Goomba-Voron-2.4
